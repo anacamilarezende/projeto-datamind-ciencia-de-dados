@@ -1,2 +1,2 @@
 # projeto ciência de dados datamind
-Projeto de análise exploratória de dados desenvolvido durante o Bootcamp de Ciência de Dados da Atlântico Avanti.
+Projeto de Ciência de Dados desenvolvido durante o Bootcamp de Ciência de Dados da Atlântico Avanti, abrangendo análise exploratória, modelagem preditiva e machine learning.
